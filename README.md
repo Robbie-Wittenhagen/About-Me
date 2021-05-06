@@ -1,13 +1,4 @@
-# About-Me
-Things I do and who I am!
-
-
-
-
-
-# github stats
-
-
+# My Stats
 <p align="center">
 <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Robbie-Wittenhagen&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=radical" />
 </h3>
